@@ -1,0 +1,16 @@
+Bu prayektni ustozimiz bilan birgalikda dars jarayonida qildik va bu mening birinchi prayektim !
+
+Malumotlar omporxonasi o`tilmaganligi sabab biz slice dan foydalandik 
+Token ham qatnashmagan bu prayektda va uni ham o`zimiz yasab olganmiz !
+
+Bunda prayekda foydalanuvchi saytdan registratsiyadan o`tadi va u saytdagi bo`limlardan foydalanish uchun o`ziga kerakli bo`limga subscribe(follow) qilishi kerak !
+Aks holda foydalana olmaydi 
+
+U bosqichlardan otgandan keyin foydalanuvchi quyidagi xizmatlardan foydalana oladi :
+
+    Get_users                   ----> barcha foydalanuvchilar ro`yhatini oloish
+	Services/Convertor/BinToDec ----> 2 lik sonni 10 likka o`tkazish
+	Service/Todo/Create         ----> Todo uchun bajarilishi kerak bolgan ishini kiritish
+	Service/Todo/GetAll         ----> kiritgan barcha rejalari royxatini olish
+
+Foydalanuvchilar uchun log-out va exit qismlar ham bor !
